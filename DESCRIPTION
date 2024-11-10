@@ -1,0 +1,16 @@
+Package: gestionMalades
+Type: Package
+Title: Queue Management for Hospitals
+Version: 0.1.0
+Author: MEPEYOU TOUNKAM GILLES MOREL [aut, cre]
+Maintainer: MEPEYOU TOUNKAM GILLES MOREL <gillesm1000@gmail.com>
+Description: This package implements the conjugate gradient algorithm to solve hospital queue management problems. It optimizes the allocation of resources (doctors) to reduce patient waiting times and improve overall hospital efficiency.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.2
+Imports: ggplot2
+Suggests: 
+    roxygen2,
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
